@@ -1,0 +1,60 @@
+.members1{
+background-color: #F5F2E7;
+height: 250px;
+width: 100%;
+}
+.members1 p{
+  text-align: center;
+  justify-content: center;
+  position: relative;
+  margin-top: 60px;
+  font-size: xx-large;
+  font-weight: 600;
+  color: #2C541D;
+  letter-spacing: 5px;
+}
+h1{
+  text-align: center;
+  margin-top: 0;
+  padding-top: 30px;
+}
+.userlogo{
+  height: 200px;
+  width: 200px;
+}
+.executive-members{
+  background-color: #2C3333;
+  color: #F5F2E7  ;
+  padding-bottom: 20px;
+}
+.executiveList{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  padding: 30px 70px 30px 70px;
+  margin: 0 50px 0 50px;
+}
+.executiveName{
+  text-align: center;
+  flex-basis: 25%;
+}
+ol{
+  margin-left: 160px;
+  margin-top: 0;
+}
+.executive-members li{
+  margin-top: 25px;
+}
+.tag {
+  margin-top: -15px;
+}
+.Association-members {
+  display: flex;
+  
+}
+.Association-members-c2 {
+  margin-left: 200px;
+  margin-top: 25;
+  margin-bottom: 0;
+  font-size: large;
+}

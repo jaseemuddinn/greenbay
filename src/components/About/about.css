@@ -1,0 +1,34 @@
+.about1{
+  background-image: url('../../Assets/aboutpic.jpg');
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 400px ;
+  text-align: center;
+  color:#F2BE22;
+
+}
+/* .about1 p{
+  font-weight: 400;
+  font-size: x-large;
+  margin-top: 140px;
+  margin-left: 110px;
+} */
+.about_content1{
+  padding: 30px;
+  background-color: #2B2730;
+    color:white;
+}
+h3{
+  margin-top: 20px;
+  text-align: center;
+  font-size: 36px;
+}
+.about_content1 p{
+ margin: 20px 90px 20px 90px;
+ word-spacing: 5px;
+ font-size: 18px;
+}
+.heading_1{
+  text-decoration: underline;
+}
